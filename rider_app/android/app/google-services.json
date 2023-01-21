@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "724872413308",
+    "project_id": "foodscart-a6c54",
+    "storage_bucket": "foodscart-a6c54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724872413308:android:ad814c9fa12933525c09f9",
+        "android_client_info": {
+          "package_name": "com.krishlabs.fcrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724872413308-mga449b35mnuu1jan0j9h82lj3n19l8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1LyfNdWPx195bMxsziipMYcuPf9w7u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724872413308-mga449b35mnuu1jan0j9h82lj3n19l8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724872413308:android:1714773851bf69235c09f9",
+        "android_client_info": {
+          "package_name": "com.krishlabs.fcstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724872413308-mga449b35mnuu1jan0j9h82lj3n19l8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1LyfNdWPx195bMxsziipMYcuPf9w7u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724872413308-mga449b35mnuu1jan0j9h82lj3n19l8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
